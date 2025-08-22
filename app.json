@@ -3,7 +3,7 @@
     "name": "fundamentals-deep-dive-starting-project",
     "slug": "fundamentals-deep-dive-starting-project",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
